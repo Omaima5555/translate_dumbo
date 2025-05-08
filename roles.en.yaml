@@ -1,0 +1,8 @@
+ROLE_ADMIN : "Administrator"
+ROLE_COMMERCIAL : "Commercial"
+ROLE_PRODUCT_MANAGER : "Manager"
+ROLE_AGENT : "Agent"
+ROLE_B2C : "Customer B2C"
+ROLE_B2B_ADMIN : "Customer B2B Admin"
+ROLE_B2B_AGENT : "Customer B2B Agent"
+ROLE_USER : "User"

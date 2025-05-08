@@ -1,0 +1,714 @@
+Pages:
+  Common:
+    Messages:
+      DefinePassword: 'كلمة المرور'
+      ChangeYourSelection: 'غيّر اختيارك'
+      StayDuration: 'مدة الإقامة'
+      Nights: 'ليالٍ'
+      Agencies: 'وكالات'
+      Map: 'خريطة'
+      Benificiaries: 'المستفيدون'
+      Room: 'غرفة'
+      RoomOccupation: 'إشغال الغرفة'
+      Children: 'الأطفال'
+      Babies: 'الرضع'
+      CheckIn: 'تسجيل الوصول'
+      Reference: 'المرجع'
+      RoomsCount: 'عدد الغرف'
+      Pending: 'قيد الانتظار'
+      Cancelled: 'ملغى'
+      CancelledFee: 'رسوم الإلغاء'
+      Available: 'متاح'
+      NotAvailable: 'غير متاح'
+      Unpaid: 'غير مدفوع'
+      Proforma: 'مبدئي'
+      Voucher: 'قسيمة'
+      Payment: 'دفع'
+      Confirm: 'تأكيد'
+      Dear: 'عزيزي'
+
+
+
+      HotelRecentSearch: 'البحث الأخير عن الفنادق'
+      From: 'من'
+      To: 'إلى'
+      Persons: 'الأشخاص'
+      ComplementNote: 'ملاحظة تكميلية'
+      Filters: 'المرشحات'
+      Before: 'قبل'
+      After: 'بعد'
+      Departure: 'المغادرة'
+      FlightDetails: 'تفاصيل الرحلة الجوية'
+      PartialPaid: ' مدفوع جزئياً'
+      Adults: 'البالغون'
+      Confirmed: 'تم التأكيد'
+      ChangePassword: 'تغيير كلمة المرور'
+      Rooms: 'الغرف'
+      RoomTypeBoard: 'نوع الغرفة مع الوجبات'
+      Paid: 'مدفوع'
+      Return: 'العودة'
+
+
+
+
+
+    Fields:
+      Id: 'معرف'
+      Email: 'البريد الإلكتروني'
+      Phone: 'الهاتف'
+      Optional: 'اختياري'
+      username: 'اسم المستخدم'
+      ShowInNewWindow: 'عرض في نافذة جديدة'
+
+  TopMenu:
+    Buttons:
+
+      Logout: 'تسجيل الخروج'
+      Login: 'تسجيل الدخول'
+      CustomerArea: 'منطقة العميل'
+      SignUp: 'التسجيل'
+      BtoBSpace: 'مساحة الأعمال إلى الأعمال'
+      Favorites: 'المفضلات'
+
+
+  Footer:
+    Messages:
+
+      CallHelp: 'اتصل بالمساعدة'
+      Agency: 'وكالة'
+      NeedHelp: 'بحاجة إلى مساعدة'
+      MailSupport: 'دعم البريد الإلكتروني'
+      Company: 'الشركة'
+      Agencies: 'الوكالات'
+      CopyRight: 'حقوق الطبع والنشر'
+      Menu: 'القائمة'
+      ContactInformation: 'معلومات الاتصال'
+
+
+
+      Links: 'الروابط'
+      SecurePayment: 'دفع آمن'
+      SlugAbout: 'نبذة'
+      SlugSaleCondition: 'شروط البيع'
+      SlugServices: 'المُعرّف الخاص بالخدمات'
+      PlanHome: 'مخطط الصفحة الرئيسية'
+      PlanParty: 'مخطط الحفلة'
+      PlanPromo: 'مخطط العرض الترويجي'
+      QualityTheRightPrice: 'جودة بالسعر المناسب'
+      BestServiceGuaranteed: 'أفضل خدمة مضمونة'
+      SecureBooking: 'حجز آمن'
+      ExpertiseKnowHow: 'الخبرة والمعرفة'
+
+
+
+
+      WhoAreWe: 'من نحن'
+      LegalNotice: 'الإشعار القانوني'
+      Address: 'العنوان'
+      FollowUs: 'تابعنا'
+      SitePlan: 'خريطة الموقع'
+      SlugLegal: 'المُعرّف القانوني'
+      GeneralTermsAndConditions: 'الشروط والأحكام العامة'
+      PlanContact: 'مخطط الاتصال'
+
+
+
+
+  SignUp:
+    Messages:
+
+      Subscription: 'الاشتراك'
+      HaveAccount: 'هل لديك حساب؟'
+      DefinePassword: 'حدد كلمة المرور'
+    Label: 'تسجيل'
+
+
+
+    Fields:
+
+
+      Civility: 'الصفة'
+      FirstName: 'الاسم'
+      LastName: 'اللقب'
+      UserName: 'اسم المستخدم'
+      Email: 'البريد الإلكتروني'
+      VerifPassword: 'تأكيد كلمة المرور'
+      Society: 'المؤسسة'
+      Phone: 'الهاتف'
+      Address: 'العنوان'
+      City: 'المدينة'
+      Role: 'الدور'
+      Password: 'كلمة المرور'
+
+
+
+    Buttons:
+      SingUp: 'التسجيل'
+      Save: 'حفظ'
+
+
+
+      SingUpBTOB: 'التسجيل للأعمال (B2B)'
+    Alerts:
+      EmailSentB2B: 'تم إرسال طلبك بنجاح. يرجى الانتظار للرد منا أو الاتصال بنا.'
+      EmailSent: 'تم إنشاء حسابك بنجاح. يرجى التحقق من بريدك الإلكتروني لتفعيل حسابك.'
+      BTOBSubscription: 'العناوين الإلكترونية الشخصية مثل Gmail، Hotmail، وغيرها غير مسموح بها. يرجى استخدام عنوان بريد إلكتروني تابع للشركة.'
+
+  ResetPassword:
+    Label: 'إعادة تعيين كلمة المرور'
+    Messages:
+      ResetPasswordEmailSent: 'تم إرسال بريد إعادة تعيين كلمة المرور'
+
+    Field:
+      NewPassword: 'كلمة المرور الجديدة'
+      VerifPassword: 'تحقق من كلمة المرور الخاصة بك'
+
+
+
+    Alerts:
+      Success: 'تم تغيير كلمة المرور بنجاح'
+
+
+  ForgotPassword:
+
+    Label: 'نسيت كلمة المرور'
+    Buttons:
+      Send: 'إرسال'
+    Alert:
+      InfoEnterEmailAdressAndSendEmailWithLink: 'أدخل بريدك الإلكتروني لتتمكن من إعادة تعيين كلمة المرور'
+
+  Login:
+    Messages:
+
+      HaveAccount: 'هل لديك حساب؟'
+      UsernameLabel: 'البريد الإلكتروني / اسم المستخدم'
+      PasswordLabel: 'كلمة المرور'
+      DontHaveAccount: 'ليس لديك حساب؟'
+      AdminPanelMessage: 'مساحة المشرف'
+      SignInAccount: 'تسجيل الدخول'
+      LoginInWithGoogle: 'تسجيل الدخول باستخدام Google'
+      LogInToAccount: 'سجّل الدخول إلى حسابك'
+      MessageInputForm: 'فضاء الوصول الاحترافي'
+      ForgottenPassword: 'نسيت كلمة المرور'
+
+
+
+    Label: 'تسجيل الدخول'
+    LabelB2B: 'تسجيل الدخول للمحترفين'
+
+
+    Buttons:
+      Login: 'تسجيل الدخول'
+
+    LoginWithMessage: 'تسجيل الدخول باستخدام'
+
+  Dashboard:
+    Title: "لوحة التحكم"
+    Buttons:
+
+
+      PendingOrder: 'الطلبات قيد الانتظار'
+      CanceledOrder: 'الطلبات الملغاة'
+      TotalOrder: 'عدد الطلبات'
+      ConfirmedOrder: 'الطلبات المؤكدة'
+
+
+  BtobUser:
+
+
+    LabelPlural: 'المستخدمين'
+    username: 'اسم المستخدم'
+  Userspace:
+    TopMenu:
+
+
+
+
+      Bookings: 'الحجوزات والسفر'
+      ChangePassword: 'تغيير كلمة السر'
+      Logout: 'الخروج'
+      Profile: 'إدارة حسابي'
+
+
+
+    LeftMenu:
+      Bookingslist: 'قائمة الحجوزات'
+      Dashboard: 'لوحة التحكم'
+      Profile: 'الملف الشخصي'
+      Wallet: 'المحفظة المالية'
+      BookingslistHotel: 'قائمة حجوزات الفندق'
+      ResetPassword: 'إعدادات الوصول'
+      CreditAccount: 'رصيد الحساب'
+      Users: 'المستخدمون'
+      BookingslistParty: 'قائمة حجوزات الحفلات'
+
+
+
+  Profile:
+
+
+    Label: 'الملف الشخصي'
+    Image: 'صورة المستخدم'
+
+
+  Wallet:
+    Buttons:
+
+      Credit: 'شحن الحساب'
+    Label: 'حركات الحساب'
+
+    Fields:
+
+
+      Balance: 'الرصيد'
+      TotalCredit: 'إجمالي الدائن'
+      Debit: 'مبلغ المدين'
+      TotalDebit: 'إجمالي المدين'
+      Credit: 'مبلغ الدائن'
+
+
+    Tabs:
+
+      Transaction: 'سجل المعاملات'
+
+
+    Messages:
+
+      TotalDebit: 'إجمالي المدين'
+      TotalCredit: 'إجمالي الدائن'
+      Credit: 'مبلغ الائتمان'
+      Debit: 'مبلغ الخصم'
+      Balance: 'الرصيد'
+
+
+
+
+  RecommendedHotel:
+
+    Title: 'الفنادق الموصى بها'
+
+
+  RecommendedExtra:
+
+    Title: 'عروض موصى بها'
+
+  ExtraDetail:
+    Messages:
+
+      FreeCancellation: 'على موقعنا، الإلغاء مجاني لمعظم المغادرين!'
+      SuperTarif: 'ضمان الحصول على سعر رائع لرحلتك القادمة.'
+
+
+  FlightOfferDetail:
+    Label: 'تفاصيل العرض'
+  Cart:
+    Messages:
+      Book: 'حجز'
+      CartProducts: 'المنتجات'
+      CartSummary: 'ملخص مشترياتك'
+      EmptyCart: "لم تقم بإضافة أي منتجات بعد!"
+      Continue: 'هل تود إضافة منتج آخر؟'
+
+      Available: 'متوفر'
+      Total: 'المبلغ الإجمالي'
+      OnDemand: 'عند الطلب'
+
+
+    Buttons:
+
+      AddToCart: 'أضف إلى مشترياتك'
+      Book: 'حجز'
+      ProceedPayment: 'المتابعة إلى الدفع'
+
+
+
+    Label: 'التسعير'
+    Alerts:
+      Success: 'طلب مؤكد'
+      MessageSuccess: 'تم تسجيل طلبك بنجاح!'
+      MessageInfoSave: 'بتسجيل الدخول إلى حسابك، قم بالحجز بسهولة واستفد من العروض
+        الخاصة.'
+
+      MessagePaymentMethod: 'اختر طريقة الدفع الخاصة بك'
+      MessageAcceptAll: 'لقد قرأت وأوافق على كل شيء'
+      NoCart: 'سلة التسوق غير متاحة حالياً'
+      MessageEmailSentTo: 'تم إرسال تفاصيل حجزك إلى : email'
+      ErrorValidNumber: 'يرجى إدخال رقم هاتف صحيح'
+      TermsConditions: 'الشروط والأحكام'
+      NotAvailableCart: 'سلة التسوق غير متاحة حالياً. ومع ذلك، يمكنك حفظها، وسنخبرك فور توفرها مرة أخرى. شكرًا لتفهمك.'
+
+
+    Fields:
+
+
+      Credit: 'رسائل_الواجهة'
+      CreditCard: 'بطاقة ائتمان'
+      DeferredPayment: 'الدفع المؤجل'
+
+
+  HotelSearch:
+
+    Title: "بحث عن فنادق"
+    Messages:
+
+      HotelStayIn: 'الإقامة في الفندق'
+      SearchStay: 'ابحث عن إقامتك'
+
+  HotelOfferDetail:
+    Messages:
+
+      OrderSublinesDetails: 'ملخص المبلغ'
+      TotalAmount: 'المبلغ الإجمالي'
+      Cancellation: 'إلغاء'
+      Observation: 'الطلبات الخاصة'
+      GuestsInformations: 'عدد الضيوف في الغرفة'
+      Adult: 'بالغ/بالغين'
+      Child: 'طفل'
+      CheckIn: 'تسجيل الوصول'
+      NightsCount: 'الليالي'
+      PrimaryGuest: 'المستفيد الرئيسي'
+      PrimaryGuestPlaceholder: 'يرجى تحديد الاسم الأول واسم العائلة للمستفيد الرئيسي من الإقامة'
+
+      VotreRecherche: 'بحثك'
+      ModifierRecherche: 'عدل بحثك'
+      ExpandDescription: 'عرض الوصف'
+      DescriptionHotel: 'وصف الفندق'
+      HotelEmplacement: 'الموقع'
+      AddYourComments: 'أضف تعليقًا'
+      arrivalDate|date('d F Y, D'): 'تاريخ الوصول'
+      departureDate|date('d F Y, D'): 'تاريخ المغادرة'
+      OrderLineDetail: 'تفاصيل حجزك'
+      StayDuration: 'مدة الإقامة'
+      YouSelected: 'لقد اخترت'
+      BeneficiaryFirstName: 'اسم المستفيد'
+      BeneficiaryLastName: 'لقب المستفيد'
+      Phone: 'الهاتف'
+
+
+      WriteYourComments: 'يرجى كتابة طلباتك باللغة الإنجليزية أو الفرنسية'
+      PrimaryGuestInfo: 'معلومات المستفيد الرئيسي'
+      CollapseDescription: 'إخفاء الوصف'
+      HotelEquipments: 'مرافق الفندق'
+      Share: 'المواقع الاجتماعية'
+      FreeCancellation: 'على موقعنا، الإلغاء مجاني لمعظم أماكن الإقامة مع تأكيد فوري لحجزك!'
+      CheckOut: 'تسجيل المغادرة'
+      ConfirmBooking: 'لضمان الحصول على أفضل سعر لإقامتك القادمة. قم بتأكيد حجزك اليوم لأن الأسعار قد ترتفع.'
+      Email: 'البريد الإلكتروني'
+
+
+
+
+
+      SpecialRequests: "الطلبات الخاصة"
+    Title: "تفاصيل العرض"
+  HotelDetail:
+    Title: "تفاصيل العرض"
+    Label: "تفاصيل الفندق"
+  Contact:
+
+
+    Label: "الاتصال"
+
+
+    Messages:
+
+
+
+      ContactUs: 'اتصل بنا'
+      LeaveMessage: 'اترك لنا رسالة'
+      SendMessage: 'إرسال'
+      FirstNamePlaceholder: 'الاسم'
+      LastNamePlaceholder: 'اللقب'
+      EmailPlaceholder: 'البريد الإلكتروني'
+      MessagePlaceholder: 'رسالة'
+      TelephonePlaceholder: 'الهاتف'
+
+
+
+  CreditB2B:
+    Messages:
+
+      OrTypeAmount: "أو أدخل المبلغ هنا:"
+      
+
+    
+    
+    Title: "رصيد الحساب:"
+    Fields:
+      Amount: "أو أدخل المبلغ المراد إضافته"
+  FrontTheme:
+    Buttons:
+      Details: "رؤية العرض:"
+  Useful:
+    Messages:
+      WriteYourComments: "اكتب تعليقاتك:"
+      ProceedPayment: "المتابعة مع الدفع:"
+  Home:
+    Messages:
+      EstablishmentCount: "%count% مؤسسات:"
+      HotelByCity: "مجموعة من الفنادق المذهلة لعطلتك في:"
+      TitleHotelByTheme: "عروض الفنادق:"
+
+
+
+    Buttons:
+
+
+
+      Subscribe: "تسجيل:"
+      ContinuePurchase: "متابعة الشراء:"
+      CityDetails: "رؤية المزيد:"
+
+
+
+  CartCheckout:
+    Messages:
+
+      ContactInfo: "تفاصيل العميل:"
+      PaymentInfo: "طريقة الدفع:"
+      DontHaveAccount: "ليس لديك حساب؟"
+      CustomerName: "الاسم واللقب:"
+      CustomerFirstName: "الاسم"
+      BeneficiaryName: "اللقب"
+      CustomerLastName: "الاسم"
+      IamThePrimaryBeneficiary: "أنا المستفيد الأساسي"
+      AlreadyHaveAccount: "لدي حساب:"
+      OtherBeneficiary: "أقوم بالحجز لمستفيد آخر"
+
+
+
+
+  BookingList:
+    Filters:
+
+      creationDateFrom: "تاريخ الإنشاء من"
+      CreationDateTo: "تاريخ الإنشاء إلى"
+      Agent: "وكيل الحجز"
+      State: "حالة"
+      CheckInTo: "تسجيل الوصول إلى"
+      CheckOutTo: "تسجيل المغادرة إلى"
+      Product: "المنتج"
+      Date: "التاريخ"
+      Title: "عنوان الحفلة"
+
+      CheckIn: "تاريخ تسجيل الوصول"
+      CheckOut: "تاريخ تسجيل المغادرة"
+      CheckInFrom: "تسجيل الوصول من"
+      CheckOutFrom: "تسجيل المغادرة من"
+
+
+
+    Messages:
+
+
+      CheckOutPlaceholder: "تاريخ تسجيل المغادرة"
+      CheckInPlaceholder: "تاريخ تسجيل الوصول"
+
+
+    Alerts:
+
+
+
+      Books: "الحجوزات"
+      PendingBooking: "حجز في الانتظار"
+
+
+  WishList:
+    Buttons:
+
+
+      ShowHotel: "عرض الفندق"
+    Fields:
+
+      WishListParty: "قائمة الحفلات المفضلة"
+      WishListHotel: "قائمة الفنادق المفضلة"
+
+    Title: "فنادقك المفضلة"
+  OrderLineUpdate:
+    Buttons:
+      BackToOrder: "العودة للطلب"
+  Menu:
+    Buttons:
+
+      HomePage: "الرئيسية"
+      Home: "الرئيسية"
+      AboutUs: "مَن نحن"
+      Services: "الخدمات"
+      SignUp: "تسجيل"
+      Contact: "اتصل بنا"
+      ForMoreInformation: "لمزيد من المعلومات"
+
+
+  SignIn:
+    Alerts:
+
+      WarningDeactivatedAccount: "حسابك معطل"
+      WarningInvalidCredentials: "اسم المستخدم أو كلمة المرور غير صحيحة"
+      WarningInValidAccount: "حسابك غير صالح. يرجى التحقق من بريدك الإلكتروني."
+
+  PaymentReceipt:
+    Pages:
+
+      List: "رقم إيصال الدفع"
+  OrderLine:
+    Pages:
+      Comments: "التعليقات"
+      Details: "تفاصيل العناصر المطلوبة"
+    Fields:
+      Id: "المعرف"
+
+      ExternalOrderIdReference: "مرجع معرف الطلب الخارجي"
+      Tokenforbook: "رمز الحجز"
+      Searchcode: "رمز البحث"
+
+    Messages:
+
+      Rooms: "الغرف"
+      Available: "متاح"
+      NotAvailable: "غير متاح"
+
+  Order:
+    Buttons:
+      Payment: "الدفع"
+      Booking: "حجز"
+      Pay: "دفع"
+
+
+    Fields:
+
+      Confirmed: "مؤكد"
+      Pending: "قيد الانتظار"
+      Cancelled: "ملغى"
+      CancelledFee: "ملغى + رسوم"
+      TempAvailable: "بانتظار الدفع"
+      Paid: "مدفوع"
+      OrderCode: "طلب رقم"
+
+
+
+    Messages:
+
+      Details: "التفاصيل"
+      OrderNumber: "رقم الطلب"
+      Selected: "المحدد:"
+      Order: "طلب"
+      Amount: "المبلغ المستحق"
+      Deposits: "الودائع:"
+      NewReceipt: "إيصال جديد:"
+      Booking: "الحجز"
+      PaymentAmount: "مبلغ الدفع"
+
+    Pages:
+      Details: "تفاصيل الطلب"
+  PartyZone:
+    Fields:
+      NbAdultsInRoom: "عدد البالغين"
+      NbChildrenInRoom: "عدد الأطفال"
+      Zone: "الرسائل (واجهة أمامية)"
+  Party:
+
+    Title: "حفلاتنا"
+    Alerts:
+      WarningAtLeastSelectOnePerson: "اختر شخصًا واحدًا على الأقل"
+      WarningAtLeastSe: "الرسائل (الواجهة الأمامية)"
+    Fields:
+      Date: "تاريخ الحفلة"
+      NbPartyZone: "عدد مناطق الحفلة"
+    Pages:
+
+
+
+      Detail: "تفاصيل الحفلة"
+
+  CustomerInformation:
+
+    Title: "تفاصيل الاتصال الخاصة بك"
+  WelcomeEmail:
+    Messages:
+      DontWaitMore: 'لا تنتظر أكثر !'
+      WelcomeTo: 'مرحبًا بك في'
+      YouHaveCreatedAccount: 'تم إنشاء حساب بعنوان البريد الإلكتروني هذا'
+      ClickToConfirm: 'انقر على "تأكيد" للتحقق من هذا العنوان والدخول إلى حسابك.'
+
+  CustomerBusinessSubscription:
+
+    Title: 'طلب التسجيل الخاص بك قيد المعالجة'
+    Body: 'نؤكد استلام طلبك للانضمام إلينا كعميل B2B'
+
+  SocietyBusinessSubscription:
+    Title: 'يريد الانضمام إلى وكالتكم'
+    Body: 'تم تقديم طلب تسجيل B2B بواسطة'
+
+  CustomerWelcomeB2B:
+
+    Title: "تم التسجيل بنجاح: مرحباً بك في شركائنا B2B!"
+    Messages:
+      ChangePassword: "انقر على هذا الرابط لتغيير كلمة المرور الخاصة بك"
+    Body: "يسعدنا أن نرحب بك بين عملائنا B2B! تم تأكيد تسجيلك بنجاح."
+  TransferOfferDetail:
+    Title: "تفاصيل التحويل"
+  HotelByCity:
+    Title: "فنادق مختارة في"
+  HotelByTheme:
+    Title: "عروض الفنادق"
+  Newsletter:
+    Messages:
+
+      YourEmailPlaceholder: 'عنوان بريدك الإلكتروني'
+      DoNotMissAnything: 'لا تفوت أي شيء'
+      Notification: 'اشترك لتلقي عروضنا الجديدة عبر البريد الإلكتروني'
+
+  Beneficiary:
+    Fields:
+      Civility: 'الصفة'
+
+    Label: 'المستفيد الرئيسي'
+    Buttons:
+
+      Edit: 'تعديل المستفيد'
+  HotelContract:
+    Messages:
+      NonRefundable: 'غير قابل للاسترداد'
+      FreeCancellation: 'إلغاء مجاني'
+      FreeCancellationBefore: 'إلغاء مجاني قبل'
+      CancellationWithFee: 'إلغاء مع رسوم'
+      From: 'من'
+  Emails:
+
+    Label: 'البريد الإلكتروني'
+  HotelBookRequest:
+
+    Title: 'طلب الحجز'
+    Messages:
+
+      IntroductoryMessage: "يرجى تأكيد الحجز أدناه"
+  HotelBookNotification:
+    Title: "إشعار الحجز"
+    Messages:
+      IntroductoryMessage: 'يرجى ملاحظة الحجز أدناه'
+  CustomerHotelOrderline:
+    Title: "حجزك"
+    Messages:
+      OrderLineMessage: "تتبع الحجز"
+      IntroductoryMessage: "شكراً لك، %name%! حجزك الآن"
+  SocietyHotelOrderline:
+    Title: "حجز الفندق"
+    IntroductoryMessage: "حجز الفندق الخاص بـ %name% الآن"
+  AccountValidation:
+    Title: "تأكيد البريد الإلكتروني"
+  SubscriptionB2B:
+
+    Title: 'إشعار طلب تسجيل B2B'
+  HotelPromo:
+
+
+    Title: 'فنادق في عرض ترويجي'
+    Messages:
+
+
+      Promotion: 'فنادق ضمن عرض ترويجي'
+  TransferSearch:
+    Title: "البحث عن التحويلات"
+  ProfilUser:
+    Messages:
+      Country: "بلد"

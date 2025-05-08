@@ -1,0 +1,8 @@
+ROLE_ADMIN: "مدير"
+ROLE_COMMERCIAL: "تجاري"
+ROLE_PRODUCT_MANAGER: "مدير المنتج"
+ROLE_AGENT: "وكيل"
+ROLE_B2C: "عميل B2C"
+ROLE_B2B_ADMIN: "مدير عميل B2B"
+ROLE_B2B_AGENT: "وكيل عميل B2B"
+ROLE_USER: "مستخدم"
