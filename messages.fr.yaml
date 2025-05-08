@@ -110,11 +110,11 @@ Entities:
       Description: "Description"
       Startdate: "Check In"
       Enddate: "Check Out"
-      State: 'Etât'
+      State: 'Etat'
       Externalorderid: "XML Booking Id"
       orderSubLines: "Prestations"
       ExternalBookingId: "Réf. externe"
-      Deadline: 'Deadline'
+      Deadline: 'date limite'
       Id: 'Réf.'
       XmlApi: 'GDS'
       Type: 'Type de produit'
@@ -122,7 +122,7 @@ Entities:
       Comment: 'Commentaires'
       Exchangeratepurchasetosale: 'Taux de change Achat -> Vente'
       Hotelname: "Nom Hôtel"
-      Hotelstarrating: "Nombre etoile"
+      Hotelstarrating: "Nombre d'étoile"
       City: "Ville"
       Country: "Pays"
       Image: "Image"
@@ -293,8 +293,8 @@ Entities:
       Saturday: 'Samedi'
       Sunday: 'Dimanche'
       MinimumStay: 'Min. Séjour'
-      SeoTitle: 'SEO Titre'
-      SeoDescription: 'SEO Description'
+      SeoTitle: 'Titre SEO'
+      SeoDescription: 'Description SEO'
       DateFrom: "Date du"
       DateTo: "Date au"
       DateRange: " "
@@ -327,7 +327,7 @@ Entities:
       AmountRemaining: "Montant restant"
       AreYouSureCancel: "Etes vous sure d'annuler"
       AreYouSureCancelThisLine: "Etes vous sur d'annuler cette ligne"
-      PurchaseData: "PurchaseData"
+      PurchaseData: "Données d'achat"
       Night: "Nuit"
       Nights: "Nuits"
       Adults: "Adultes"
@@ -335,7 +335,7 @@ Entities:
       Babies: "Bébés"
       NewPhotos: "Nouvelles Photos"
       NRFYes: 'Oui'
-      Extra: 'Supplement'
+      Extra: 'Supplément'
       Quantity: 'Quantité'
       All: 'Tout'
       Free: 'Gratuit'
@@ -352,18 +352,20 @@ Entities:
       Passenger: "Passager"
       ExecutionDate: "Date exécution"
       PassengerBookingDetails: "Détails de réservation"
-      IssuanceDate: "Issuance date"
-      ExpireDate: "Expire date"
-      Class: "Class"
-      BagsQty: "Bags Qty"
-      Cabin: "Cabin"
+      IssuanceDate: "Date d'émission"
+      ExpireDate: "Date d'expiration"
+      Class: "Classe"
+      BagsQty: "Quantité de bagages"
+      Cabin: "Cabine"
+
       Itineraries: "Itinéraires"
       PriceDetails: "Détails de prix"
-      Autocomplete: "Autocomplete"
+      Autocomplete: "Complétion automatique"
       applicant: 'Demandeur'
-      Today: 'Today'
-      TradeDay: 'TradeDay'
-      Until: 'Until'
+      Today: "Aujourd'hui"
+      TradeDay: "Jour de négociation"
+      Until: "Jusqu'à"
+
       FareOption: 'Option de Tarif'
       stops:
         NoStop: 'Direct'
@@ -495,7 +497,7 @@ Entities:
     Label: "Elément Produit"
   OrderSubLine:
     Fields:
-      State: "Etât"
+      State: "Etat"
       Description: "Description"
       Purchaseprice: "Montant Achat"
       Saleprice: "Montant Vente"
@@ -548,7 +550,7 @@ Entities:
       Date: "Date"
       Active: "Etat"
       Customer: "Client"
-      User: "User"
+      User: "Utilisateur"
       Agency: "Agence"
       AmountUsed: "Mnt. exploité"
       AmountRemaining: 'Mnt. restant'
@@ -627,7 +629,7 @@ Entities:
   CustomerXmlApi:
     Fields:
       Margin: "Marge"
-      Xmlout: "GDS OUT"
+      Xmlout: "Hors GDS"
       XmlApiType: 'Type GDS'
       Customer: "Client"
       XmlApi: "Xml Api"
@@ -1594,18 +1596,18 @@ Entities:
       Type: 'Type'
       MarkupStrategyRelated: 'Related Markup Strategy'
       MinMax: 'Min - Max'
-      SeatNumber: 'Seat Number'
+      SeatNumber: 'Numéro de siège'
       Class: 'Class'
       RuleType: 'Type'
       Customer: 'Client'
       XmlApi: 'XmlApi'
       Margin: 'Marges % '
-      DefaultXmlApi: 'Default XmlApi'
+      DefaultXmlApi: 'XmlApi par défaut'
       Rules: 'Règles'
       Priority: 'Priorité'
   MarkupBasic:
     Fields:
-      Value: 'Value'
+      Value: 'Valeur'
       Type: 'Type'
     Buttons:
       NewBasic: 'Nouvelle marge de base'
@@ -1617,14 +1619,14 @@ Entities:
       NewPrice: 'Nouveau prix'
   MarkupSeat:
     Fields:
-      SeatNumber: 'Seat Number'
+      SeatNumber: 'Numéro de siège'
     Buttons:
-      NewSeat: 'New Seat Markup'
+      NewSeat: "Nouveau supplément de siège"
   MarkupAirline:
     Fields:
       Airline: 'Airline'
     Buttons:
-      NewAirline: 'New Airline'
+      NewAirline: "Nouvelle compagnie aérienne"
   Zone:
     Fields:
       Title: "Titre"
@@ -1669,7 +1671,7 @@ Pages:
       statPendingOrdersCount: 'Commandes'
       statPendingOrderlinesCount: 'Dossiers'
       statPendingRequestsCount: 'Demandes Dos.'
-      statStopSales: 'Stop sales'
+      statStopSales: "Arrêt des ventes"
       statConfirmedHotelBookings: 'Réservations Hotels confirmées'
       BookingPerSource: 'Réservations par source'
       UpcomingHotelCheckin: 'Prochains Check-in Hôtels'
@@ -1679,7 +1681,7 @@ Pages:
       SalesAnalytics: "Analyse des ventes"
       TodayConfirmed: 'Bilan Quotidien'
       Pending: 'En attente'
-      Number: 'Number'
+      Number: 'Nombre'
     Label:
       DateFrom: "Date de début"
       DateTo: "Date de fin"
@@ -1713,7 +1715,7 @@ Pages:
   Common:
     Messages:
       Days: 'Jours'
-      Deposit: 'Déposite'
+      Deposit: 'dépôts'
       TradeDay: 'Journée Commerciale'
       Until: "Jusqu'au"
       Today: "Aujourd'hui"
