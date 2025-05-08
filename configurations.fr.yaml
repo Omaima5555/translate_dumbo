@@ -5,12 +5,12 @@ SettingGroup:
     EmailsConfig : 'Configuration des addresses Emails'
     EmailsTexts : 'Configuration des textes d''Emails'
     HUB-Hotel : 'Configuration du HUB Hôtel'
-    HUB-Transfer : 'Configuration du HUB Transfer'
-    HUB-Flight : 'Configuration du HUB Flight'
+    HUB-Transfer : 'Configuration du HUB Transfert'
+    HUB-Flight : 'Configuration du HUB Vol'
     System : 'Configuration Système'
     B2CSocialNetworks : 'Réseaux Sociaux (B2C)'
     StaticPages : 'Pages Statiques'
-    DocumentContentHotel : 'Contenu personnalisé : Module Hotel'
+    DocumentContentHotel : 'Contenu personnalisé : Module Hôtel'
     DumboSystemCheck : 'Vérification du système Dumbo.'
 
 
@@ -62,9 +62,9 @@ PrintableDocs:
     FooterHeight: 'Hauteur Pied de page'
 
 EmailsConfig:
-    EmailFrom_Booking : 'Email FROM (Réservations)'
-    EmailFrom_Contact : 'Email FROM (Contact)'
-    EmailFrom_Account : 'Email FROM (Comptes)'
+    EmailFrom_Booking : 'Email de (Réservations)'
+    EmailFrom_Contact : 'Email de (Contact)'
+    EmailFrom_Account : 'Email de (Comptes)'
     EmailDisplay_B2C : 'Email à afficher aux B2C'
     EmailDisplay_B2B : 'Email à afficher aux B2B'
     Email_CC: 'Email Copie (CC)'
@@ -76,26 +76,28 @@ B2CSocialNetworks:
     Twitter: 'Twitter'
 
 HUB-Hotel:
-    ApiKey: 'HOTEL API KEY'
-    Url : 'HOTEL HUB URL'
+    ApiKey: 'Clé API HÔTEL'
+    Url : 'URL DU HUB HÔTEL'
 
 HUB-Transfer:
-    ApiKey: 'TRANSFER HUB API KEY'
-    Url : 'TRANSFER HUB URL'
+    ApiKey: 'Clé API DU HUB TRANSFERT'
+    Url: 'URL DU HUB TRANSFERT'
+
 
 HUB-Flight:
-    ApiKey: 'FLIGHT HUB API KEY'
-    Url: 'FLIGHT HUB URL'
+    ApiKey: 'Clé API DU HUB VOL'
+    Url: 'URL DU HUB VOL'
+
 
 System:
     Currency: 'Devise'
     ModuleHotelContract: 'Activation Contrats Hôtels (1: oui)'
     ModuleHotel: 'Activation Module Hotel (1: oui)'
-    ModuleTransfer: 'Activation Module Transfer (1: oui)'
-    ModuleFlight: 'Activation Module Flight (1: oui)'
+    ModuleTransfer: 'Activation Module Transfert (1: oui)'
+    ModuleFlight: 'Activation Module Vol (1: oui)'
     ModuleCustomService: 'Service Libre Activation (1: yes)'
     IsB2B: 'Mode B2B (1: oui)'
-    MidOfficeUrl: 'Url Mid-Office'
+    MidOfficeUrl: 'URL du Mid-Office'
 
 DocumentContentHotel:
     VoucherInfosFR : "Voucher Hotel: Infos (FR)"

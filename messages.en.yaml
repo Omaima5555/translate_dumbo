@@ -464,14 +464,14 @@ Entities:
       WarningTotal: 'Total must be greater than the balance in order to pay'
     Messages:
       Total: 'Total'
-      TotalHt: 'Total HT'
+      TotalHt: 'Total Excl. Tax'
       SubTotal: 'Subtotal before discount'
       FiscalStamp: 'Fiscal Stamp'
-      TotalTTC: 'Total TTC'
-      TvaBase: "Tva Base"
-      Tva: "TVA"
-      TotalTva: "Total TVA"
-      TvaAmount: "Amount TVA"
+      TotalTTC: 'Total Incl. Tax'
+      TvaBase: "VAT Base"
+      Tva: "VAT"
+      TotalTva: "Total VAT"
+      TvaAmount: "VAT Amount"
     Buttons:
       ChangeCustomer: "Change Customer"
       Pay: 'Pay'
@@ -497,7 +497,7 @@ Entities:
       StateTEMP_AVAILABLE: "Pending payment"
       StateNOT_BOOKED: "NOT BOOKED"
       StatePAID: "Paid"
-      StatePARTIALLYPAID: 'Partiel'
+      StatePARTIALLYPAID: 'Partial'
       StateUNPAID: "Not paid"
   Provider:
     Buttons:
@@ -530,7 +530,7 @@ Entities:
       Peaid: 'Paid'
       Debit: 'Debit'
       UnitPrice: 'Unit price'
-      Qty: 'Qty'
+      Qty: 'Quantity'
       PurchaseUnitPrice: 'Purchase Unit Price'
     Buttons:
       EditPurchase: "Edit Purchase"
@@ -1554,7 +1554,7 @@ Entities:
     Page:
       New: 'New service/equipment'
     Pages:
-      List: 'Services & Equipements'
+      List: 'Services & Equipments'
       New: 'New service/equipment'
 
     Fields:
@@ -1628,8 +1628,8 @@ Entities:
       NewBasic: 'New Basic Markup'
   MarkupPrice:
     Fields:
-      MinPrice: 'MinPrice'
-      MaxPrice: 'MaxPrice'
+      MinPrice: 'Min Price'
+      MaxPrice: 'Max Price'
     Buttons:
       NewPrice: 'New Price Markup'
   MarkupSeat:

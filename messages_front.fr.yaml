@@ -305,7 +305,7 @@ Pages:
   Useful:
     Messages:
       ProceedPayment: 'Passer au paiement'
-      WriteYourComments: 'Ecriveze vos commentaires'
+      WriteYourComments: 'Ecrivez vos commentaires'
   Home:
     Messages:
       EstablishmentCount: '%count% établissement(s)'
@@ -428,7 +428,7 @@ Pages:
       Selected: 'Selectionnés : '
       Order: 'Commande '
       Amount: 'Montant dû '
-      Deposits: 'Déposites : '
+      Deposits: 'Dépôts : '
       NewReceipt: 'Nouveau encaissement : '
       PaymentAmount: "Montant de règlement : "
       Booking: 'Réservation'
@@ -441,7 +441,7 @@ Pages:
     Title: 'Nos Soirées'
     Alerts:
       WarningAtLeastSe: 'messages_front'
-      WarningAtLeastSelectOnePerson: 'Ajouter au moin une person'
+      WarningAtLeastSelectOnePerson: 'Ajouter au moins une personne'
     Fields:
       Date: 'Date de la soirée'
       NbPartyZone: 'Nb. Zones'
